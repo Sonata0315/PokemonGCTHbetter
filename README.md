@@ -1,1 +1,1 @@
-# PokemonGCTHbetter
+# PokemonGCTH is a 2D arena fighting game with 2 pokemon which are necrozma and gengar. You can use one fo the two pokemon to fight the other, attemping to deplete their health to 0. You will need unity to run this project. To run the application you must press the build and run button in the file directory in the unity inspector. Each file holds a part that is important to the game. 
